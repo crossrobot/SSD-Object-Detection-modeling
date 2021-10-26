@@ -7,4 +7,3 @@ We've used TensorFlow Object Detection API.
 
 According to a contract regrading data security contract, all the data used in this project is not uploaded on this repository except code.
 
-Special thanks to 
