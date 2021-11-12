@@ -5,5 +5,4 @@ This project has done by 임낙준, 변수현, 박수빈.
 
 We've used TensorFlow Object Detection API. 
 
-According to a contract regrading data security contract, all the data used in this project is not uploaded on this repository except code.
-
+According to a contract regrading data security, all the data used in this project is not uploaded.
