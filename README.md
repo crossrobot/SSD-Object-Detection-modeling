@@ -28,6 +28,9 @@ According to a contract regrading data security, all the data used in this proje
 
 ![image](https://user-images.githubusercontent.com/75110219/141505622-2fed2b11-9960-44da-95cc-2993f7a5b25f.png)
 
+![image](https://user-images.githubusercontent.com/75110219/141505916-6dd30aaf-65b9-40b3-9aa8-be79cf0de742.png)
+
+
 ![image](https://user-images.githubusercontent.com/75110219/141505672-c75048eb-4c4b-4cbc-9102-89d0c35decf8.png)
 
 ![image](https://user-images.githubusercontent.com/75110219/141505699-0756d05f-a3a9-45df-8715-6ab069419f71.png)
